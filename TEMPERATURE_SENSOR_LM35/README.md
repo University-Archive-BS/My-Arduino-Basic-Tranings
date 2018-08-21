@@ -1,0 +1,3 @@
+# TEMPERATURE_SENSOR_LM35
+
+![breadboard view](TEMPERATURE_SENSOR_LM35.png)
