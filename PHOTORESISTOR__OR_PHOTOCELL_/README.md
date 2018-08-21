@@ -1,0 +1,3 @@
+# PHOTORESISTOR (OR PHOTOCELL)
+
+![breadboard view](PHOTORESISTOR.png)
